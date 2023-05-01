@@ -1,5 +1,5 @@
 .wrapper-editor {
-  width: 500px;
+  width: 97%;
 }
 .title-teks {
   width: 100%;
@@ -15,7 +15,7 @@
 }
 
 .wrapper-preview {
-  width: 700px;
+  width: 97%;
 }
 
 .preview-teks {
@@ -23,4 +23,5 @@
   padding: 30px;
   min-height: 150px;
   background-color: #c0d8d8;
+  overflow-x: scroll;
 }
